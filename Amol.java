@@ -12,6 +12,9 @@ class Amol{
 
           System.out.println("Your Nam is"+Name);
 
+         System.out.println("Your Nam is--------------------------------------------------------------");
+          
+
     }
     
 }   
